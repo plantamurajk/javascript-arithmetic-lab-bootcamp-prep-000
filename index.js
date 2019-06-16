@@ -1,3 +1,7 @@
+//Code for Flatiron School Bootcamp JavaScript Arithmetic Lab
+//By Jack Plantamura
+//6-16-2019
+
 function add(x, y){
   return (x + y)
 }
